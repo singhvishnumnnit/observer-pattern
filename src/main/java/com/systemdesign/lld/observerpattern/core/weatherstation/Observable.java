@@ -1,4 +1,4 @@
-package com.systemdesign.lld.observerpattern.core;
+package com.systemdesign.lld.observerpattern.core.weatherstation;
 
 public interface Observable {
     void addObserver(Observer observer);

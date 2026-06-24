@@ -1,7 +1,7 @@
 package com.systemdesign.lld.observerpattern.features.weatherstation.observable;
 
-import com.systemdesign.lld.observerpattern.core.Observable;
-import com.systemdesign.lld.observerpattern.core.Observer;
+import com.systemdesign.lld.observerpattern.core.weatherstation.Observable;
+import com.systemdesign.lld.observerpattern.core.weatherstation.Observer;
 
 import java.util.ArrayList;
 import java.util.List;

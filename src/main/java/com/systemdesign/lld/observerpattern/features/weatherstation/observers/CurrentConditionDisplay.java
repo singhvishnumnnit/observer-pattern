@@ -1,7 +1,7 @@
 package com.systemdesign.lld.observerpattern.features.weatherstation.observers;
 
-import com.systemdesign.lld.observerpattern.core.Observable;
-import com.systemdesign.lld.observerpattern.core.Observer;
+import com.systemdesign.lld.observerpattern.core.weatherstation.Observable;
+import com.systemdesign.lld.observerpattern.core.weatherstation.Observer;
 
 public class CurrentConditionDisplay implements Observer {
     private final Observable observable;
